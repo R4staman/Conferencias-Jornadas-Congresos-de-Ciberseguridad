@@ -108,6 +108,10 @@ Posadev
 
 Cyberwarriors Conference - WOMCY
 
+Bitup Alicante
+
+Security BSides Puerto Rico
+
 
 **~Ingles:**
 
@@ -117,6 +121,22 @@ Defcon
 Black Hat
 
 x33fcon
+
+Security BSides
+
+RSA Conference
+
+Infosec World
+
+GITEX
+
+SecTor
+
+SANS Institute Cybersecurity Training Event
+
+ENISA Cybersecurity Standardisation Conference 2023
+
+Gartner Security & Risk Management Summit
 
 
 **~Recursos:**
