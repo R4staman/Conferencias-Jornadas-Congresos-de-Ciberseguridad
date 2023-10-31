@@ -1,7 +1,7 @@
 # Conferencias-Jornadas-Congresos-de-Ciberseguridad
 
 
-**Español:**
+**~Español:**
 
 
 RootedCON
@@ -109,7 +109,7 @@ Posadev
 Cyberwarriors Conference - WOMCY
 
 
-**Ingles:**
+**~Ingles:**
 
 
 Defcon
@@ -119,7 +119,7 @@ Black Hat
 x33fcon
 
 
-**Recursos:**
+**~Recursos:**
 
 https://securiters.gitbook.io/securiters-wiki/congresos-de-cyber
 
