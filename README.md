@@ -112,6 +112,8 @@ Bitup Alicante
 
 Security BSides Puerto Rico
 
+KavaCon Cybersecurity Conference
+
 
 **~Ingles:**
 
